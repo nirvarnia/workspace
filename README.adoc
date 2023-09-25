@@ -1,0 +1,7 @@
+= Nirvarnia Workspace
+
+This repository encapsulates a VS Code workspace configuration file for the Nirvarnia project, plus a few other handy scripts and tools for local development environments:
+
+''''
+
+Copyright © link:https://github.com/nirvarnia/workspace/graphs/contributors[the contributors] — link:./LICENSE.txt[MIT license]

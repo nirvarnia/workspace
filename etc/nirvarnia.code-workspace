@@ -1,0 +1,37 @@
+{
+
+  "extensions": {
+
+    // The following extensions are RECOMMENDED for the Nirvarnia project.
+    // To load the recommended extensions, go to the *Workspace Recommendations*
+    // section of VS Code's *Extensions* panel.
+    // https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions
+
+    "recommendations": [
+
+    ]
+
+  },
+
+  "folders": [
+    {
+      "name": "nirvarnia/decisions",
+      "path": "../../decisions"
+    },
+    {
+      "name": "nirvarnia/nirvarnia",
+      "path": "../../nirvarnia"
+    },
+    {
+      "name": "nirvarnia/workspace",
+      "path": "../../workspace"
+    },
+  ],
+
+  "launch": {
+  },
+
+  "settings": {
+  }
+
+}
