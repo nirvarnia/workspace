@@ -19,6 +19,10 @@
       "path": "../../decisions"
     },
     {
+      "name": "nirvarnia/stylelint-config",
+      "path": "../../stylelint-config"
+    },
+    {
       "name": "nirvarnia/nirvarnia",
       "path": "../../nirvarnia"
     },

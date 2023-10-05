@@ -4,7 +4,8 @@
 :: to launching a preconfigured Windows Terminal instance.
 
 start "Windows Terminal" wt.exe^
-         --profile "Git Bash" --title "nirvarnia/decisions"   -d "..\..\decisions";^
- new-tab --profile "Git Bash" --title "nirvarnia/nirvarnia"   -d "..\..\nirvarnia";^
- new-tab --profile "Git Bash" --title "nirvarnia/workspace"   -d "..\..\workspace";^
+         --profile "Git Bash" --title "nirvarnia/decisions"        -d "..\..\decisions";^
+ new-tab --profile "Git Bash" --title "nirvarnia/stylelint-config" -d "..\..\stylelint-config";^
+ new-tab --profile "Git Bash" --title "nirvarnia/nirvarnia"        -d "..\..\nirvarnia";^
+ new-tab --profile "Git Bash" --title "nirvarnia/workspace"        -d "..\..\workspace";^
  focus-tab -t 0
